@@ -3,23 +3,39 @@
 <p align="center">
 I build clean, testable APIs with Django & DRF, ship with Docker, and scale background jobs with Celery/Redis.
 </p>
+<h1 align="center">👋 سلام! من Mohammad YR هستم — Backend Developer (Python / Django)</h1>
 
 <p align="center">
-<a href="https://github.com/MohammadYR?tab=repositories"><img src="https://img.shields.io/badge/Focus-Django%20%7C%20DRF%20%7C%20Docker%20%7C%20Celery-1"/></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Contact-Email-informational"/></a>
+می‌سازم، مستندسازی می‌کنم، و منتشر می‌کنم — بک‌اندهای تمیز و قابل نگهداری با Django, DRF, Docker و Celery/Redis.
 </p>
 
-### مهارت‌ها
-- RESTful APIs • JWT/OTP • PostgreSQL • Redis
-- Celery (retry/backoff/chain) • Caching • Pytest • GitHub Actions
-- Git تمیز: Conventional Commits، PRهای کوچک، Releases با SemVer
+<p align="center">
+<a href="https://github.com/MohammadYR?tab=repositories"><img src="https://img.shields.io/badge/Focus-Django%20%7C%20DRF%20%7C%20Docker%20%7C%20Celery-green"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Contact-Email-blue"/></a>
+</p>
 
-### پروژه‌های شاخص
-- **Custom Shop Project (Django/DRF)** — احراز هویت JWT/OTP، سبد خرید، سفارش‌ها، Docker، Celery/Redis. [Repo](https://github.com/MohammadYR/Custom-Shop-Project)
-- **Celery Patterns Pack** — مثال‌های تولیدی برای هندل خطا/Retry/Chain. (به‌زودی)
+---
 
-### ارزش‌ها
-Reliability over hype • مستندسازی آموزنده • انتشارهای کوچک و مداوم
+### 🚀 مهارت‌ها
+- Django / Django REST Framework  
+- PostgreSQL / Redis  
+- Celery (Tasks, Retries, Chains)  
+- Docker / Docker Compose  
+- Testing: pytest / coverage  
+- CI/CD: GitHub Actions  
+- Git تمیز (Conventional Commits, PRها، Releases)
+
+---
+
+### 🧩 پروژه‌های شاخص
+#### 🛒 [Custom-Shop-Project](https://github.com/MohammadYR/Custom-Shop-Project)
+بک‌اند فروشگاهی کامل با JWT/OTP، Docker، Celery/Redis و API Docs.  
+**Tech Stack:** Django, DRF, PostgreSQL, Redis, Celery, Docker, Pytest
+
+#### ⚙️ Celery Patterns Pack *(به‌زودی)*
+الگوهای حرفه‌ای برای تسک‌ها، retries، و signal handling در Celery.
+
+---
 
 ### 🧠 Architecture (نمونه تصویری)
 ```mermaid
