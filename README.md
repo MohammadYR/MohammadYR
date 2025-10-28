@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi, I'm Mohammad YR — Backend Engineer (Python/Django)</h1>
 
 <p align="center">
@@ -9,16 +8,7 @@ I build clean, testable APIs with Django & DRF, ship with Docker, and scale back
 <a href="https://github.com/MohammadYR?tab=repositories"><img src="https://img.shields.io/badge/Focus-Django%20%7C%20DRF%20%7C%20Docker%20%7C%20Celery-1"/></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Contact-Email-informational"/></a>
 </p>
-name: Django CI
 
-on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
-jobs:
-  build:
 ### مهارت‌ها
 - RESTful APIs • JWT/OTP • PostgreSQL • Redis
 - Celery (retry/backoff/chain) • Caching • Pytest • GitHub Actions
@@ -30,18 +20,3 @@ jobs:
 
 ### ارزش‌ها
 Reliability over hype • مستندسازی آموزنده • انتشارهای کوچک و مداوم
-
-<!--
-**MohammadYR/MohammadYR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
