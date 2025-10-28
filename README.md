@@ -41,3 +41,42 @@ flowchart LR
   Django -.enqueue.-> Celery[Celery Workers]
   Celery --> Redis
   Celery --> External[(Email / Payment)]
+
+---
+
+## 📊 آمار گیت‌هاب من
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadYR&show_icons=true&theme=github_dark&hide_border=true&count_private=true&line_height=24&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadYR&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🧱 فعالیت اخیر من
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadYR&theme=github-compact&hide_border=true&radius=6" />
+</p>
+
+---
+
+## 🏆 افتخارات
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadYR&theme=flat&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true"/>
+</p>
+
+---
+
+## ⚙️ ابزارهایی که بیشتر باهاشون کار می‌کنم
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,celery,docker,linux,git,github,vscode" />
+</p>
+
+---
+
+<p align="center">
+✨  همیشه دنبال یادگیری و بهتر کردن پروژه‌هام هستم ✨
+</p>
