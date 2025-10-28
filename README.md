@@ -3,11 +3,6 @@
 <p align="center">
 I build clean, testable APIs with Django & DRF, ship with Docker, and scale background jobs with Celery/Redis.
 </p>
-<h1 align="center">👋 سلام! من Mohammad YR هستم — Backend Developer (Python / Django)</h1>
-
-<p align="center">
-می‌سازم، مستندسازی می‌کنم، و منتشر می‌کنم — بک‌اندهای تمیز و قابل نگهداری با Django, DRF, Docker و Celery/Redis.
-</p>
 
 <p align="center">
 <a href="https://github.com/MohammadYR?tab=repositories"><img src="https://img.shields.io/badge/Focus-Django%20%7C%20DRF%20%7C%20Docker%20%7C%20Celery-green"/></a>
