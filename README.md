@@ -9,7 +9,36 @@ I build clean, testable APIs with Django & DRF, ship with Docker, and scale back
 <a href="https://github.com/MohammadYR?tab=repositories"><img src="https://img.shields.io/badge/Focus-Django%20%7C%20DRF%20%7C%20Docker%20%7C%20Celery-1"/></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Contact-Email-informational"/></a>
 </p>
+name: Django CI
 
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 4
+      matrix:
+        python-version: [3.7, 3.8, 3.9]
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v3
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run Tests
+      run: |
+        python manage.py test
 ### مهارت‌ها
 - RESTful APIs • JWT/OTP • PostgreSQL • Redis
 - Celery (retry/backoff/chain) • Caching • Pytest • GitHub Actions
