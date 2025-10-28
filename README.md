@@ -18,7 +18,7 @@ I build clean, testable APIs with Django & DRF, ship with Docker, and scale back
 - Docker / Docker Compose  
 - Testing: pytest / coverage  
 - CI/CD: GitHub Actions  
-- Git تمیز (Conventional Commits, PRها، Releases)
+- Git
 
 ---
 
