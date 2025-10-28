@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohammad YR — Backend Engineer (Python/Django)</h1>
+<h1 align="center">Hi, I'm Mohammad Yousefi — Backend Developer (Python/Django)</h1>
 
 <p align="center">
 I build clean, testable APIs with Django & DRF, ship with Docker, and scale background jobs with Celery/Redis.
@@ -20,3 +20,13 @@ I build clean, testable APIs with Django & DRF, ship with Docker, and scale back
 
 ### ارزش‌ها
 Reliability over hype • مستندسازی آموزنده • انتشارهای کوچک و مداوم
+
+### 🧠 Architecture (نمونه تصویری)
+```mermaid
+flowchart LR
+  Client -->|HTTPS/JSON| Django[Backend: Django + DRF]
+  Django --> Postgres[(Database: PostgreSQL)]
+  Django --> Redis[(Cache & Broker)]
+  Django -.enqueue.-> Celery[Celery Workers]
+  Celery --> Redis
+  Celery --> External[(Email / Payment)]
