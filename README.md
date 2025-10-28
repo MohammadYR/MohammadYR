@@ -33,6 +33,7 @@ I build clean, testable APIs with Django & DRF, ship with Docker, and scale back
 ---
 
 ### 🧠 Architecture (نمونه تصویری)
+
 ```mermaid
 flowchart LR
   Client -->|HTTPS/JSON| Django[Backend: Django + DRF]
@@ -41,6 +42,7 @@ flowchart LR
   Django -.enqueue.-> Celery[Celery Workers]
   Celery --> Redis
   Celery --> External[(Email / Payment)]
+
 
 ---
 
