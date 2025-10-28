@@ -75,8 +75,3 @@ flowchart LR
   <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,celery,docker,linux,git,github,vscode" />
 </p>
 
----
-
-<p align="center">
-✨  همیشه دنبال یادگیری و بهتر کردن پروژه‌هام هستم ✨
-</p>
