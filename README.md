@@ -43,6 +43,7 @@ flowchart LR
   Celery --> Redis
   Celery --> External[(Email / Payment)]
 
+```
 
 ---
 
