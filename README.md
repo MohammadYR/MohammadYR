@@ -28,9 +28,11 @@ I build clean, testable APIs with Django & DRF, ship with Docker, and scale back
 **Tech Stack:** Django, DRF, PostgreSQL, Redis, Celery, Docker, Pytest
 
 #### ⚙️ [Coffee-Shop-Manager](https://github.com/MohammadYR/coffee-shop)
+سیستم مدیریت سغارش های کافه 
+
+**Tech Stack:** Django, Django ORM, Redis
 
 
-**Tech Stack:** Python, Django, Django ORM, Redis
 ---
 
 ### 🧠 Architecture (نمونه تصویری)
