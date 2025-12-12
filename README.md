@@ -16,7 +16,7 @@ I build clean, testable APIs with Django & DRF, ship with Docker, and scale back
 - PostgreSQL / Redis  
 - Celery (Tasks, Retries, Chains)  
 - Docker / Docker Compose  
-- Testing: pytest / coverage  
+- Testing: pytest 
 - CI/CD: GitHub Actions  
 - Git
 
@@ -27,9 +27,10 @@ I build clean, testable APIs with Django & DRF, ship with Docker, and scale back
 بک‌اند فروشگاهی کامل با JWT/OTP، Docker، Celery/Redis و API Docs.  
 **Tech Stack:** Django, DRF, PostgreSQL, Redis, Celery, Docker, Pytest
 
-#### ⚙️ Celery Patterns Pack *(به‌زودی)*
-الگوهای حرفه‌ای برای تسک‌ها، retries، و signal handling در Celery.
+#### ⚙️ [Coffee-Shop-Manager](https://github.com/MohammadYR/coffee-shop)
 
+
+**Tech Stack:** Python, Django, Django ORM, Redis
 ---
 
 ### 🧠 Architecture (نمونه تصویری)
