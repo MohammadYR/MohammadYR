@@ -24,8 +24,10 @@ I build clean, testable APIs with Django & DRF, ship with Docker, and scale back
 
 ### 🧩 پروژه‌های شاخص
 #### 🛒 [Custom-Shop-Project](https://github.com/MohammadYR/Custom-Shop-Project)
-بک‌اند فروشگاهی کامل با JWT/OTP، Docker، Celery/Redis و API Docs.  
+بک‌اند فروشگاهی کامل با JWT/OTP، Docker، Celery/Redis و API Docs. 
+
 **Tech Stack:** Django, DRF, PostgreSQL, Redis, Celery, Docker, Pytest
+
 
 #### ⚙️ [Coffee-Shop-Manager](https://github.com/MohammadYR/coffee-shop)
 سیستم مدیریت سغارش های کافه 
